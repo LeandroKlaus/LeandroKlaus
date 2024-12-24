@@ -10,7 +10,7 @@
 ![Klaus GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroKlaus&show_icons=true&theme=ambient_gradient)
 
 
-## Tecnologias que uso no dia a dia
+## Tecnologias que uso no dia a dia:
 
 <div style = "display: inline_block"><br/>
     <img align = "center" width = "30px" alt = "html5" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
