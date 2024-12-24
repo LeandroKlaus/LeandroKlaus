@@ -23,7 +23,7 @@
     <img align = "center" width = "30px" alt = "vite" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
     <img align = "center" width = "30px" alt = "mongodb" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
     <img align = "center" width = "30px" alt = "mysql" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    
+    <img align = "center" width = "30px" alt = "figma" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div><br/>
 
 Cursando o 5° período de Engenharia da Computação e almejando me tornar um dev full stack.
