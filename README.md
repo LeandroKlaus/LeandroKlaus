@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Leandro Klaus👾
+### Olá! Eu sou o Leandro Klaus - Desenvolvedor Front-End Vibe Coding👾
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/klausdev/)
 
