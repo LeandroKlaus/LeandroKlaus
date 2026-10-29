@@ -27,4 +27,4 @@
     <img align = "center" width = "30px" alt = "figma" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div><br/>
 
-Cursando o 7° período de Engenharia da Computação e me tornando um dev full stack.
+Formado em Engenharia da Computação e atualmente sou Full Stack Web Developer.
